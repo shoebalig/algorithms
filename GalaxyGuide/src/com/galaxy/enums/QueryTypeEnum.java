@@ -1,0 +1,5 @@
+package com.galaxy.enums;
+
+public enum QueryTypeEnum {
+	QUERY_ASSIGNMENT, QUERY_FETCH_CREDITS_INFO, QUERY_HOW_MANY, QUERY_HOW_MUCH, QUERY_INVALID
+}
