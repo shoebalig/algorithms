@@ -1,4 +1,4 @@
-package design.patters.creational;
+package com.algo.patterns.creational;
 
 public class Builderpattern {
 	private String name;
